@@ -49,3 +49,30 @@ Esses recursos tornam o conteúdo **perceptível a um público mais amplo**, con
 
 - Navegador moderno (Google Chrome, Firefox, Edge, etc.).
 - Estrutura de arquivos:
+  
+ ```
+/assets
+├── image.png
+├── audio.m4a
+index.html
+ ```
+### ✅ Passo a Passo
+1. Clone este repositório ou baixe o projeto em seu computador.
+2. Garanta que os arquivos estejam organizados conforme a estrutura acima.
+3. Abra o arquivo `index.html` em seu navegador.
+4. Navegue pela página e utilize recursos como leitor de tela, navegação por teclado e zoom para testar a acessibilidade.
+
+---
+
+## 📚 Referências
+
+WORLD WIDE WEB CONSORTIUM (W3C). **Critério de Sucesso 1.1.1 Conteúdo Não Textual**. Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. 2023. Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#conteudo-nao-textual](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#non-text-content). Acesso em: 11 maio 2025.
+
+WORLD WIDE WEB CONSORTIUM (W3C). **Critério de Sucesso 1.2.1 Apenas Áudio e Apenas Vídeo (Pré-gravado)**. Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. 2023. Disponível em: [https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#apenas-audio-e-apenas-video-pre-gravado](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#audio-only-and-video-only-prerecorded). Acesso em: 11 maio 2025.
+
+WORLD WIDE WEB CONSORTIUM (W3C). **Critério de Sucesso 1.2.2 Legendas (Pré-gravadas)**. Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2. 2023. Disponível em: [<https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#legendas-pre-gravadas>](https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/#captions-prerecorded). Acesso em: 11 maio 2025.
+
+
+---
+
+✨ Projeto desenvolvido como atividade prática da disciplina de Interação Humano-Computador.
